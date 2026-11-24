@@ -5,7 +5,7 @@ import os
 
 TEXT = (
     "before i die, confession: i was never on silent, i just didn't like you. "
-    "your ex texted twice. tell mom i love her and delete my search history, "
+    "your ex texted twice and i replied. tell mom i love her and delete my search history, "
     "starting with 'can a phone feel pain'"
 )
 
